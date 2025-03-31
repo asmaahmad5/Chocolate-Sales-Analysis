@@ -1,0 +1,38 @@
+Chocolate Sales & Efficiency Analysis – Summary Report
+
+Key Findings
+🔹 Top-Performing Countries by Total Sales & Efficiency
+ Australia, UK, and India lead in total revenue and average sales per box, indicating strong pricing efficiency. However, the UK's Avg Sales per Box is lower, suggesting reliance on bulk discount strategies.
+🔹 Top Salespeople by Revenue
+ Ches Bonnell, Oby Sorrel, and Madelene Upcott are the highest-grossing salespeople. However, Kelci Walkden, Brien Boise, and Van Tuxwell maintain a higher Avg Sales per Box, indicating a more value-driven approach.
+🔹 Most Efficient Salesperson
+ Kelci Walkden ($54 per box) has the highest Avg Sales per Box, excelling in high-margin sales while still ranking among the top 5 in total revenue.
+🔹 Low-Performing Salespeople
+Wilone O'Kielt has the lowest total revenue, suggesting weak sales performance.
+Camilla Castle has the lowest Avg Sales per Box, highlighting inefficiencies in pricing strategies or product mix selection.
+Both require pricing strategy adjustments and targeted sales coaching.
+🔹 Top-Selling Products by Total Sales
+ 🍫 Smooth Silky Salty, 🍫 50% Dark Bites, and 🍫 White Choc were the best-selling products by revenue.
+🔹 Best-Selling Products by Efficiency
+ 🍫 50% Dark Bites ($60 per box), Eclairs ($60 per box), and Smooth Silky Salty ($59 per box) generate the highest per-unit revenue.
+ Two of these products rank high in both revenue and efficiency, making them ideal for premium marketing efforts.
+🔹 Total Sales vs. Average Sales (Efficiency Correlation)
+ A moderate positive correlation (R² = 0.6951) suggests that higher total sales generally align with better per-box efficiency. However, some products and salespeople sell in high volume without optimizing per-box revenue, indicating pricing strategy gaps.
+
+
+Recommendations
+✅ Optimize Pricing for Bulk Sellers
+The UK has high total sales but lower efficiency.
+Review discounting strategies to improve per-box margins.
+✅ Expand High-Efficiency Markets
+Australia and India demonstrate strong pricing power.
+Consider expanding premium product lines in these regions.
+✅ Leverage Efficient Salespeople
+Kelci Walkden and Brien Boise consistently maintain high avg sales per box.
+Study their sales techniques and provide training to lower-performing sales reps.
+✅ Market Premium Chocolates More Aggressively
+50% Dark Bites ($60 per box), Eclairs ($60 per box), and Smooth Silky Salty ($59 per box)
+These products outperform in avg sales per box and should receive stronger marketing focus to drive high-margin sales.
+✅ Set Benchmarks for Performance Monitoring
+Establish monthly efficiency targets for salespeople and countries.
+Ensure a balanced approach between volume-based and high-margin sales strategies.
