@@ -10,7 +10,7 @@ Most Efficient Products: 50% Dark Bites and Eclairs generate $60 per box, making
 Efficiency Correlation (R² = 0.6951): Higher total sales generally align with better per-box revenue, but pricing strategies vary.
 
 📸 Dashboard & Visuals
-Dashboard Preview : [📊 View the Dashboard Screenshot]([https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/SCREENSHOT%201.PNG)
+Dashboard Preview : [🔗  View the Dashboard Screenshot](https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/SCREENSHOT%201.PNG)
 
 📈 Tools Used
 Excel (Pivot Tables, Charts, Dashboards, Calculated Fields, Trendline Analysis)
