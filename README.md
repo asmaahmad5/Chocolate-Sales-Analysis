@@ -1,4 +1,4 @@
-![Banner](https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Chocolate%20Sales%20Banner.jpg)
+![Banner](https://raw.githubusercontent.com/asmaahmad5/Chocolate-Sales-Analysis/main/Chocolate%20Sales%20Banner.jpg)
 
 📌 Project Title: Chocolate Sales & Efficiency Analysis
 🔍 Overview
