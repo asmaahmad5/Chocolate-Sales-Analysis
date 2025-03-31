@@ -1,3 +1,5 @@
+![Banner](https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Chocolate%20Sales%20Banner.jpg)
+
 📌 Project Title: Chocolate Sales & Efficiency Analysis
 🔍 Overview
 Analyzed chocolate sales to identify trends in efficiency, pricing, and sales performance.
