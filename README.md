@@ -10,7 +10,7 @@ Most Efficient Products: 50% Dark Bites and Eclairs generate $60 per box, making
 Efficiency Correlation (R² = 0.6951): Higher total sales generally align with better per-box revenue, but pricing strategies vary.
 
 📸 Dashboard & Visuals
-Dashboard Preview [https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/SCREENSHOT%201.PNG]
+Dashboard Preview : [📊 View the Dashboard Screenshot]([https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/SCREENSHOT%201.PNG)
 
 📈 Tools Used
 Excel (Pivot Tables, Charts, Dashboards, Calculated Fields, Trendline Analysis)
@@ -20,9 +20,9 @@ Data Cleaning & Efficiency Analysis
 ✅ Expand premium product lines in high-efficiency markets (Australia & India).
 ✅ Train low-performing salespeople using best practices from top performers.
 
-Dataset used from Kagggle (https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data)
+Dataset used from Kagggle [📊 View Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data)
 
-Read full SummaryReport here ( https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Summary-report.md.txt)
+Read full SummaryReport here [📊 View full Summary Report]( https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Summary-report.md.txt)
 
-View Excel Workbook here (https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Chocolate%20Sales%20Workbook.xlsx)
+View Excel Workbook here [📊 View the Exvel Workbook](https://github.com/asmaahmad5/Chocolate-Sales-Analysis/blob/main/Chocolate%20Sales%20Workbook.xlsx)
 
